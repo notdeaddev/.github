@@ -1,4 +1,4 @@
-# 🌱 notdead.dev
+# 🧟 notdead.dev
 
 Where open-source legends stay alive.
 
